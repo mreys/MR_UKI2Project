@@ -16,7 +16,3 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2064
-- serviceName: project.mr_uki2.integrations:dkdk
-  packages:
-  - name: MR_UKI2Project
-    version: "1.0"
